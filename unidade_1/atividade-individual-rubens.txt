@@ -1,0 +1,7 @@
+Aluno: Rubens Mette Júnior
+
+Nas paginas 480 e 481, parte do glossário do documento é abordado detalhadamente o conceito de Realidade Virtual Imersiva (RVI), destacando que esse tipo de realidade virtual tem como objetivo isolar o usuário completamente do mundo real. Para alcançar essa imersão total, são utilizados dispositivos especializados, como capacetes de Realidade Virtual, óculos de RV, luvas de dados, rastreadores e fones de ouvido. Esses dispositivos trabalham em conjunto para bloquear os sentidos do usuário em relação ao ambiente físico, transferindo-os para um ambiente totalmente digital e artificial.
+
+A RVI é projetada para responder exclusivamente aos estímulos gerados pelo sistema computacional, criando uma experiência imersiva onde o usuário sente que está verdadeiramente dentro do ambiente virtual. Essa seção também destaca a importância dos equipamentos específicos para garantir que a experiência imersiva seja o mais realista possível, mencionando a utilização de tecnologias avançadas para monitorar a posição e os movimentos do usuário, permitindo uma interação natural com o ambiente virtual.
+
+Além disso, a seção discute as aplicações potenciais da RVI em diferentes áreas, como entretenimento, educação, e treinamento, onde a imersão completa pode proporcionar experiências altamente envolventes e educativas, simulando situações que seriam difíceis ou impossíveis de replicar no mundo real.​
