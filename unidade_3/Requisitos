@@ -1,0 +1,25 @@
+1. Requisitos Funcionais:
+	
+	•	Visualização dos Corpos Celestes: O sistema deve representar 3 planetas e o Sol de maneira visualmente fiel e em escala ajustada.
+
+	•	Navegação e Movimento: O usuário deve poder se mover a partir dos botoes na tela, cada botoo na tela representa um planeta e ao apertar o botao a nave se move ate ele e orbita o planeta usando um sistema de teletransporte para saltar grandes distâncias.
+
+	•	Informações Interativas: Cada planeta e corpo celeste deve conter informações interativas (por exemplo, dados sobre temperatura, composição, gravidade, etc.) acessíveis ao usuário.
+
+	•	Ciclos Orbitais: O sistema deve simular as órbitas dos planetas em torno do Sol, suas rotações e possíveis interações gravitacionais, mesmo que de forma simplificada.
+
+	•	Zoom: O usuário deve ser capaz de se aproximar e afastar dos corpos celestes, podendo, por exemplo, ver a Terra de perto e, em seguida, se afastar para ter uma visão do sistema solar completo.
+
+	•	Ambiente 3D Realista: O espaço ao redor deve ser representado com estrelas distantes, nebulosas e efeitos visuais que criem uma sensação de vastidão e imensidão espacial.
+
+2. Requisitos Técnicos:
+	
+	•	Suporte a Diferentes Dispositivos de VR: O sistema deve ser compatível com dispositivos de VR populares, como Meta Quest, Valve Index, PlayStation VR, entre outros, garantindo suporte a diferentes tipos de controladores e sistemas de rastreamento.
+
+	•	Sistema de Som Espacial: O sistema deve ter um som ambiente envolvente, como sons leves de fundo (ruídos espaciais, sons do vento nos planetas, explosões de meteoritos). Também pode incluir trilhas sonoras suaves para aumentar a imersão.
+
+	•	Interação com Controladores: O usuário deve poder interagir com o ambiente usando as mãos ou controladores, como tocar em planetas, usar uma "ferramenta de teletransporte" ou abrir painéis de informações.
+
+	•	Interface de Usuário em VR: O design de uma interface intuitiva que funcione bem em realidade virtual é crucial, com menus flutuantes que o usuário possa acessar e manipular facilmente.
+
+	•	Iluminação e Sombras Dinâmicas: A luz do Sol precisa criar sombras realistas nos planetas e objetos, e essas sombras devem mudar conforme o usuário se move e os corpos orbitam.
